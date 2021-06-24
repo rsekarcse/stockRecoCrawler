@@ -1,0 +1,2 @@
+# stockRecoCrawler
+scala crawler practice
